@@ -274,7 +274,7 @@ void init() {
 
 void gameOver() {
 	gotoxy(0,10);
-	printf("-------gameOver-------");
+	printf("--------gameOver-------");
 	gotoxy(0,40);
 	while(true);
 } 
